@@ -6,7 +6,7 @@
 
 ## About
 
-BlakYak is a retro-styled Blackjack game written in Java, featuring original 8-bit pixel art created by the developer. You start by entering how much money you're bringing to the table, place your bet, and play against an AI dealer — complete with looping background music, funny loss quotes, and a full split hand mechanic.
+BlakYak is an Undertale-esque Blackjack game written in Java, featuring original 8-bit pixel art created by me. You start by entering how much money you're bringing to the table, place your bet, and play against an AI dealer, complete with looping background music, funny loss quotes, and a full split hand mechanic.
 
 ---
 
@@ -121,7 +121,7 @@ The following files must be present in the working directory at runtime:
 
 ## Art & Design
 
-All visual assets were designed by the developer. The 8-bit pixel art style gives the game a retro arcade feel, covering every card face, board layout, and UI element.
+All visual assets were designed by me. The 8-bit pixel art style gives the game a retro arcade feel, covering every card face, board layout, and UI element.
 
 ---
 
