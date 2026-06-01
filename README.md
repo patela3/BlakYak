@@ -133,12 +133,3 @@ All visual assets were designed by me. The 8-bit pixel art style gives the game 
 
 ---
 
-## Author
-
-**patela3** — [GitHub](https://github.com/patela3)
-
----
-
-## License
-
-This project is open source. *(Add a LICENSE file to specify terms, e.g. MIT.)*
