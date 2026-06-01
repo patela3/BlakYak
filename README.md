@@ -1,7 +1,4 @@
 # BlakYak
-
-> An 8-bit Blackjack variant built in Java, with all art designed from scratch.
-
 ---
 
 ## About
